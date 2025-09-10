@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+//Tabela de multiplicação para exemplificar uso do for e o paradigma de orientação a objetos
 using System;
 
 class TabelaMultiplicacao
