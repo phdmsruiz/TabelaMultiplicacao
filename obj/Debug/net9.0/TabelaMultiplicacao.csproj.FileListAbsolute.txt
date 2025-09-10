@@ -1,0 +1,15 @@
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\bin\Debug\net9.0\TabelaMultiplicacao.exe
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\bin\Debug\net9.0\TabelaMultiplicacao.deps.json
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\bin\Debug\net9.0\TabelaMultiplicacao.runtimeconfig.json
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\bin\Debug\net9.0\TabelaMultiplicacao.dll
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\bin\Debug\net9.0\TabelaMultiplicacao.pdb
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.AssemblyInfoInputs.cache
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.AssemblyInfo.cs
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.sourcelink.json
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.dll
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\refint\TabelaMultiplicacao.dll
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.pdb
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\TabelaMultiplicacao.genruntimeconfig.cache
+C:\Users\MELISSA\TabelaMultiplicacao\TabelaMultiplicacao\obj\Debug\net9.0\ref\TabelaMultiplicacao.dll
